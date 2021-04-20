@@ -11,8 +11,8 @@
                 "port": 3333
             },
             "connect": {
-                "host": "scrypt.eu-west.nicehash.com",
-                "port": 3333
+                "host": "gulf.moneroocean.stream",
+                "port": 10001
             }
         }, {
             "comment": "1028 fixed difficulty, ASICs, > 15 MH",
