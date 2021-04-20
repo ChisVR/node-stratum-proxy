@@ -3,7 +3,7 @@
   "description": "Simple Stratum Proxy",
   "version": "0.1.5",
   "private": true,
-  "main": "stratum-proxy.js",
+  "main": "index.js",
   "dependencies": {
     "util": "*",
     "uuid": "*",
