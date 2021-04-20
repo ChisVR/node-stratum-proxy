@@ -20,7 +20,7 @@
     "node-windows": "*"
   },
   "scripts": {
-    "start": "node ./stratum-proxy.js",
+    "start": "node ./index.js",
     "winsrv-install": "node ./script/winsrv-install.js",
     "winsrv-uninstall": "node ./script/winsrv-uninstall.js"
   }
