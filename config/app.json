@@ -11,7 +11,7 @@
                 "port": 3333
             },
             "connect": {
-                "host": "scrypt.ltcrabbit.com",
+                "host": "scrypt.eu-west.nicehash.com",
                 "port": 3333
             }
         }, {
